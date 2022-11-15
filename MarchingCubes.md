@@ -3,5 +3,6 @@
 ## 1. Documents or links for studies
 1. http://paulbourke.net/geometry/polygonise/
 2. https://tatsy.github.io/programming-for-beginners/cpp/march-cubes/
+3. https://github.com/CHINA-JIGE/MarchingCube
 
 ## 2. 
